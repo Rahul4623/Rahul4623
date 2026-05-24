@@ -19,7 +19,7 @@ Who am I?
 Currently Working On
 
 VLSI Internship @ NIT Rourkela — RTL Design with FPGA IMPLEMNTATION And RTl to GdSII Flow 
-Chemistry Research- MEDIUM TO HIGH ENTROPY MANGANESE OXIDES FOR ENERGY ENVIRONMENTAL APPLICATIONS
+Chemistry Research- Medium to high Entropy Manganese Oxides For Energy and Environmental Applications
 
 
 Tools & Technologies
