@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rahul 👋</h1>
+<h1 align="center">Hey, I'm Rahul </h1>
 <p align="center">
   <b>ECE Student @ SRM Institute of Science and Technology</b><br/>
   VLSI • RTL Design • Digital Systems • Python
@@ -24,14 +24,17 @@ Chemistry Research- MEDIUM TO HIGH ENTROPY MANGANESE OXIDES FOR ENERGY ENVIRONME
 
 🛠️ Tools & Technologies
 <p>
-  <img src="https://img.shields.io/badge/Verilog-FF6B35?style=flat-square&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-FF6B35?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vivado-E01F27?style=flat-square&logo=xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cadence-007ACC?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Origalys-00897B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OriginLab-E65100?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
-
 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul4623&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
