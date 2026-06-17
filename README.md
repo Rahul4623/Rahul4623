@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rahul </h1>
+<h1 align="center">Hey, I'm Shahishnu Rahul </h1>
 <p align="center">
   <b>ECE Student @ SRM Institute of Science and Technology</b><br/>
   VLSI • RTL Design • Digital Systems • Python
